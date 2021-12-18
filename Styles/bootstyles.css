@@ -1,0 +1,53 @@
+.Navigation {
+    border: 5px outset rgba(52, 155, 240, 0.897);
+    background-color: lightblue;
+    text-align: center;
+    resize: horizontal;
+    font-size: x-large;
+    font-family: fantasy;
+  }
+
+  .Tableau {
+    border: 5px outset rgb(10, 41, 3);
+    background-color: rgba(22, 131, 12, 0.466);
+    text-align: center;
+    resize: both;
+    font-size: larger;
+    font-weight: bold;
+    width: 400px;
+  }
+
+ 
+  #caption {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    color: #6c757d;
+    text-align: left;
+    font-weight: bold;
+    font-size: 48px;
+    font-style: oblique;
+    resize: both;
+   }
+
+  img {
+    width: 1000px;
+    height: 800px;
+    object-fit: contain;
+    resize: both;
+  }
+
+
+  .Footer {
+    border: 5px outset rgba(52, 155, 240, 0.897);
+    background-color: lightblue;
+    text-align: center;
+    resize: horizontal;
+    font-size: x-large;
+    font-family: fantasy;
+  }
+
+  body {
+
+    background-color: rgba(78, 248, 191, 0.123);
+    resize: both;
+  }
